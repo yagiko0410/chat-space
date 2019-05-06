@@ -1,4 +1,12 @@
 Rails.application.routes.draw do
+  get 'messages/index'
+
+  get 'messages/create'
+
+  get 'messages/message_parms'
+
+  get 'messages/set_group'
+
 #   get 'user/edit'
 
 #   get 'user/update'
