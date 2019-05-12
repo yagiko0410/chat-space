@@ -55,5 +55,7 @@ gem 'haml-rails'
 gem 'erb2haml'
 gem 'devise'
 gem 'carrierwave'
-gem 'mini_magick'
 
+
+gem 'mini_magick'
+gem 'rails-i18n', '~> 5.0'
